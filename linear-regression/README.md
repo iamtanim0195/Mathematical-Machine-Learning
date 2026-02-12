@@ -22,6 +22,8 @@ To find this line, we must calculate the specific slope ($m$) and intercept ($b$
 
 If we consider the distance between a point and the line as an **error**, and we have $n$ points, the total error $E$ would be the sum of all distances. Since distances can be positive or negative (which would cancel each other out), we square them:
 
+![alt text](image-1.png)
+
 The distance $d$ is the difference between the actual value ($y$) and the predicted value ($\hat{y}$):
 
 ```math
