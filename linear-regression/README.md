@@ -30,7 +30,6 @@ Our Error Function (Cost Function) is:
 $$E(m, b) = \sum_{i=1}^{n}(y_i - \hat{y}_i)^2$$
 $$E(m, b) = \sum_{i=1}^{n}(y_i - mx_i - b)^2$$
 
-
 ## Derivation of Parameters
 
 ### 1. Solving for the Intercept ($b$)
